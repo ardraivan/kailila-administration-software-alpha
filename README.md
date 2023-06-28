@@ -1,6 +1,6 @@
 # Kailila Administration Software - Alpha Version
 
-![Kailila Logo](public/images/logokailila.png)
+![Kailila Logo](dashboard/public/images/logokailila.png)
 
 Welcome to Kailila Administration Software! This is the Alpha Version of our project, developed by the talented team of Ardra Fingerstyle and Dandy Alviyando. Created in the year 2023, Kailila Administration Software brings together the essence of theater and musical drama, infused with a touch of artistry.
 
