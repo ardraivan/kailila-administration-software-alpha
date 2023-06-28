@@ -1,7 +1,5 @@
 # Kailila Administration Software - Alpha Version
 
-![Kailila Logo](dashboard/public/images/logokailila.png)
-
 Welcome to Kailila Administration Software! This is the Alpha Version of our project, developed by the talented team of Ardra Fingerstyle and Dandy Alviyando. Created in the year 2023, Kailila Administration Software brings together the essence of theater and musical drama, infused with a touch of artistry.
 
 ## About Kailila Administration Software
@@ -10,11 +8,12 @@ Kailila Administration Software is a powerful and user-friendly solution designe
 
 ## Key Features
 
-- User-friendly dashboard providing quick access to essential information
-- Efficient data management for clients, employees, and projects
-- Advanced reporting and analytics to gain valuable insights
-- Secure authentication and access control mechanisms
-- Seamless integration with popular third-party tools and services
+- User-friendly dashboard for quick access to essential information and statistics
+- Efficient data management for office inventory, employee, and client data
+- Scheduling management for easy coordination and organization of sessions
+- Documentation of therapy session evaluation results
+- Secure authentication and access control
+- Integration with third-party tools for enhanced functionality
 
 ## Installation
 
